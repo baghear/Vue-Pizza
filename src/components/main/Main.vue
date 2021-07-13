@@ -44,7 +44,7 @@ import axios from "axios";
 import {mapGetters, mapActions} from 'vuex'
 
 import Header from '../common/Header.vue'
-import Pizza from '../Pizza.vue'
+import Pizza from './Pizza.vue'
 
 export default {
   name: 'Main',
