@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/vue_pizza/'
+    publicPath: '/vue-pizza/'
 }
