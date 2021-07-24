@@ -92,10 +92,13 @@ export default {
 }
 
 .cart__image{
+
 }
 
 .cart__wrap{
-  margin-left: 14px;
+  margin: 0 5px 0 14px;
+  /*margin-left: 14px;
+  margin-right: 5px;*/
 }
 
 .cart__price{

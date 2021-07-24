@@ -80,7 +80,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .pizza-card{
-  width: 300px;
+  width: 23%;
   margin: 0 auto;
 }
 
