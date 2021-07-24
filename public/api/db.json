@@ -2,7 +2,7 @@
   "dataPizza": [
     {
       "name":"Четыре сезона",
-      "image":"img/four-season_pizza.jpg",
+      "image":"img/pizza/four-season_pizza.jpg",
       "price":"150",
       "cake":{
         "type":[
@@ -33,7 +33,7 @@
     },
     {
       "name":"Маргарита",
-      "image":"img/margarita_pizza.jpg",
+      "image":"img/pizza/margarita_pizza.jpg",
       "price":"125",
       "cake":{
         "type":[
@@ -64,7 +64,7 @@
     },
     {
       "name":"Грибная",
-      "image":"img/burger_pizza.jpg",
+      "image":"img/pizza/burger_pizza.jpg",
       "price":"135",
       "cake":{
         "type":[
@@ -95,7 +95,7 @@
     },
     {
       "name":"Сырная",
-      "image":"img/cheese_pizza.jpg",
+      "image":"img/pizza/cheese_pizza.jpg",
       "price":"155",
       "cake":{
         "type":[

@@ -3,7 +3,7 @@
     <router-link to="/" class="header-links">
       <div class="logo">
         <a href="">
-          <img src="img/pizza-log.svg" class="logo__img" alt="" width="38px"></a>
+          <img src="img/pizza-logo.svg" class="logo__img" alt="" width="38px"></a>
         <div class="logo__data">
           <div class="logo__title">Vue Pizza</div>
           <div class="logo__text">самая вкусная пицца во вселенной</div>
