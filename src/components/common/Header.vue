@@ -36,9 +36,9 @@ export default {
 .header{
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   border-bottom: 1px solid #f6f6f6;
-  padding-bottom: 30px;
-  margin-bottom: 20px;
+  padding-bottom: 50px;
   margin-top: 30px;
 }
 .header-links{
@@ -48,6 +48,7 @@ export default {
 .logo{
   display: flex;
   cursor: pointer;
+  margin: 0 10px 10px 0;
 }
 .logo__img{
   margin-bottom: 0px;

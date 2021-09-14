@@ -122,7 +122,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   background-color: #ffdf8c;
-  padding: 60px 250px;
+  padding: 60px 15%;
 }
 
 .container{
@@ -133,7 +133,7 @@ export default {
 
 .content{
   display: flex;
-  justify-content: flex-start;
+  justify-content: space-around;
   flex-wrap: wrap;
   z-index: 1;
 }
